@@ -21,7 +21,7 @@
 title: Patrick Alba | Blog
 email: patrickthealba@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Clinical Health Informatics and Natural Language Processing Data Scientist
+  Data Scientist with a Clinical Health Informatics and Natural Language Processing Focus
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: patrickthealba
